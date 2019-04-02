@@ -1,6 +1,7 @@
 ## Colour Homography Colour Correction
 
-Colors across a change in viewing condition (changing light color, shading and camera) are related by a homography.
+Colors across a change in viewing condition (changing light color, shading and camera) are related by a homography.  
+
 Colour correction : Given pixel - pixel correspondaces, colour homography is applied for shading invariant colour mapping.
 
 
@@ -9,7 +10,8 @@ Colour correction : Given pixel - pixel correspondaces, colour homography is app
 + Alternate Least Squares
 + RANSAC
 
-To test least squares and alternate least squares : `test.m`
+To test least squares and alternate least squares : `test.m`  
+
 To test RANSAC : `test_ransac.m`
 
 
